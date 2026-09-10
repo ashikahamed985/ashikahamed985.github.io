@@ -22,10 +22,10 @@ repository               : "ashikahamed985/ashikahamed985.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mp.png"   # TODO: upload your photo to /images/profile.png
+  avatar           : "profile.png"
   name             : "Ashik Ahamed"
   pronouns         :
-  bio              : "ML/Deep Learning researcher working on time-series forecasting, explainable AI, and climate data analytics for heatwave prediction in Bangladesh."
+  bio              : "ML/Deep Learning researcher · CGPA 3.89/4.0 · 1 Publication · 3 Active Research Projects. Working on time-series forecasting, explainable AI, and climate data analytics for heatwave prediction in Bangladesh."
   location         : "Dhaka, Bangladesh"
   employer         : "Research Student, Elite Research Lab"
   uri              :
