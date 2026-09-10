@@ -14,18 +14,12 @@ My first-author paper, "Enhancing Heatwave Prediction Using Explainable AI: Feat
 
 I am currently applying to graduate programs (Master's/PhD) to pursue rigorous, long-term research on climate-resilient AI systems — building models that are not only accurate but interpretable enough to inform real-world early-warning systems, particularly for climate-vulnerable regions like South Asia.
 
-<div class="notice--info" markdown="1"> **📄 Featured Publication**
+<div class="notice--info" markdown="1"> <strong>📄 Featured Publication</strong>
 
-"Enhancing Heatwave Prediction Using Explainable AI: Feature Selection and Model Optimization for Improved Forecasting" Ahamed, A.*, et al. — International Conference on Frontiers in Computing and Systems (COMSYS 2025), Accepted, in press
+<strong>"Enhancing Heatwave Prediction Using Explainable AI: Feature Selection and Model Optimization for Improved Forecasting"</strong><br> <em>Ahamed, A.*, et al. — International Conference on Frontiers in Computing and Systems (COMSYS 2025), Accepted, in press</em>
 
-Using a 10-year climate dataset for Dhaka, this paper applies SHAP-based feature selection and benchmarks GRU, LSTM, RNN, and XGBoost to improve both the accuracy and interpretability of heatwave forecasting.
+<p>Using a 10-year climate dataset for Dhaka, this paper applies SHAP-based feature selection and benchmarks GRU, LSTM, RNN, and XGBoost to improve both the accuracy and interpretability of heatwave forecasting.</p>
 
-Read more →
+<a href="/publication/2025-12-01-heatwave-prediction-xai">Read more →</a>
 
-</div>
-Recent News
-Sep 2026 — Joined Elite Research Lab as a Research Student, receiving structured mentorship on academic paper writing and co-authoring a manuscript under lab supervision.
-Jun 2026 — Started an independent research project building an ML framework to predict daily heat-related illness risk across 8 cities in Bangladesh.
-May 2026 — Began a multi-city extension of the heatwave prediction pipeline with Dr. Nuzhat Tabassum, covering Dhaka, Rajshahi, Chittagong, and Sylhet.
-2025 — First-author paper, "Enhancing Heatwave Prediction Using Explainable AI," accepted at COMSYS 2025.
-2024 — Scored Band 7.0 (C1 level) on IELTS Academic.
+</div> <h2>Recent News</h2> <ul> <li><strong>Sep 2026</strong> — Joined Elite Research Lab as a Research Student, receiving structured mentorship on academic paper writing and co-authoring a manuscript under lab supervision.</li> <li><strong>Jun 2026</strong> — Started an independent research project building an ML framework to predict daily heat-related illness risk across 8 cities in Bangladesh.</li> <li><strong>May 2026</strong> — Began a multi-city extension of the heatwave prediction pipeline with Dr. Nuzhat Tabassum, covering Dhaka, Rajshahi, Chittagong, and Sylhet.</li> <li><strong>2025</strong> — First-author paper, "Enhancing Heatwave Prediction Using Explainable AI," accepted at COMSYS 2025.</li> <li><strong>2024</strong> — Scored Band 7.0 (C1 level) on IELTS Academic.</li> </ul>
