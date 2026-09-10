@@ -13,3 +13,10 @@ I am a recent graduate in Computer Science (Information Systems) from the Americ
 My first-author paper, "Enhancing Heatwave Prediction Using Explainable AI: Feature Selection and Model Optimization for Improved Forecasting," was accepted at COMSYS 2025. I went on to work as a Research Assistant under Dr. Nuzhat Tabassum at AIUB (May 2025 – March 2026), building a three-phase pipeline — feature-based prediction, pure time-series forecasting, and explainability — on over a decade of temperature data across multiple cities in Bangladesh. I am currently a Research Student at Elite Research Lab, where I am receiving structured mentorship on academic paper writing and co-authoring a manuscript under lab supervision. In parallel, I am independently developing a machine learning framework to predict daily heat-related illness risk (rather than temperature alone), aiming to be among the first Bangladesh-focused studies to model health risk directly.
 
 I am currently applying to graduate programs (Master's/PhD) to pursue rigorous, long-term research on climate-resilient AI systems — building models that are not only accurate but interpretable enough to inform real-world early-warning systems, particularly for climate-vulnerable regions like South Asia.
+
+Recent News
+Sep 2026 — Joined Elite Research Lab as a Research Student, receiving structured mentorship on academic paper writing and co-authoring a manuscript under lab supervision.
+Jun 2026 — Started an independent research project building an ML framework to predict daily heat-related illness risk across 8 cities in Bangladesh.
+May 2026 — Began a multi-city extension of the heatwave prediction pipeline with Dr. Nuzhat Tabassum, covering Dhaka, Rajshahi, Chittagong, and Sylhet.
+2025 — First-author paper, "Enhancing Heatwave Prediction Using Explainable AI," accepted at COMSYS 2025.
+2024 — Scored Band 7.0 (C1 level) on IELTS Academic.
