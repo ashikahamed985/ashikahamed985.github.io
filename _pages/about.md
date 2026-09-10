@@ -14,6 +14,15 @@ My first-author paper, "Enhancing Heatwave Prediction Using Explainable AI: Feat
 
 I am currently applying to graduate programs (Master's/PhD) to pursue rigorous, long-term research on climate-resilient AI systems — building models that are not only accurate but interpretable enough to inform real-world early-warning systems, particularly for climate-vulnerable regions like South Asia.
 
+<div class="notice--info" markdown="1"> **📄 Featured Publication**
+
+"Enhancing Heatwave Prediction Using Explainable AI: Feature Selection and Model Optimization for Improved Forecasting" Ahamed, A.*, et al. — International Conference on Frontiers in Computing and Systems (COMSYS 2025), Accepted, in press
+
+Using a 10-year climate dataset for Dhaka, this paper applies SHAP-based feature selection and benchmarks GRU, LSTM, RNN, and XGBoost to improve both the accuracy and interpretability of heatwave forecasting.
+
+Read more →
+
+</div>
 Recent News
 Sep 2026 — Joined Elite Research Lab as a Research Student, receiving structured mentorship on academic paper writing and co-authoring a manuscript under lab supervision.
 Jun 2026 — Started an independent research project building an ML framework to predict daily heat-related illness risk across 8 cities in Bangladesh.
