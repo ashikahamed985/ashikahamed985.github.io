@@ -14,7 +14,7 @@ My first-author paper, *"Enhancing Heatwave Prediction Using Explainable AI: Fea
 
 I am currently applying to graduate programs (Master's/PhD) to pursue rigorous, long-term research on climate-resilient AI systems — building models that are not only accurate but interpretable enough to inform real-world early-warning systems, particularly for climate-vulnerable regions like South Asia.
 
-<a href="/files/Ashik_Ahamed_CV.pdf" class="btn btn--primary" target="_blank" rel="noopener noreferrer">📄 Download CV (PDF)</a>
+<a href="/files/ASHIK_AHAMED.pdf.pdf" class="btn btn--primary" target="_blank" rel="noopener noreferrer">📄 Download CV (PDF)</a>
 
 <div class="notice--info" markdown="1">
 <strong>📄 Featured Publication</strong>
