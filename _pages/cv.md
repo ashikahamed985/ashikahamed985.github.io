@@ -50,5 +50,3 @@ Applied machine learning models to business data to identify trends and support 
 <li>Conference Presenter, International Conference on Frontiers in Computing and Systems (COMSYS 2025)</li>
 <li>Dean's List, AIUB — awarded four times for outstanding academic performance (2021 – 2025)</li>
 <li>IELTS Academic — Overall Band 7.0 (C1 level), 2026</li>
-<li>ICPC Asia Dhaka Regional — Online Preliminary Contest participant, Team AIUB Virtuosos (Oct 2023)</li>
-</ul>
