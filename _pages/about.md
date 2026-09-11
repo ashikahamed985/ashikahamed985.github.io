@@ -33,3 +33,6 @@ I am currently applying to graduate programs (Master's/PhD) to pursue rigorous, 
 <li><strong>2025</strong> — First-author paper, "Enhancing Heatwave Prediction Using Explainable AI," accepted at COMSYS 2025.</li>
 <li><strong>2024</strong> — Scored Band 7.0 (C1 level) on IELTS Academic.</li>
 </ul>
+
+`[Download CV (PDF)](/files/Ashik_Ahamed_CV.pdf)`
+
