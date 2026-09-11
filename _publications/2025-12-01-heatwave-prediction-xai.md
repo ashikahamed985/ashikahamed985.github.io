@@ -15,3 +15,4 @@ four architectures — GRU, LSTM, RNN, and XGBoost — to forecast heatwave even
 Model performance was evaluated using MSE, MAE, and R² metrics, with the aim of 
 improving both the accuracy and interpretability of climate extreme forecasting 
 for public early-warning applications.
+  
