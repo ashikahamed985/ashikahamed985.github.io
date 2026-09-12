@@ -1,6 +1,7 @@
 ---
 title: "Enhancing Heatwave Prediction Using Explainable AI: Feature Selection and Model Optimization for Improved Forecasting"
 collection: publications
+category: conferences
 permalink: /publication/2025-12-01-heatwave-prediction-xai
 date: 2025-12-01
 venue: 'International Conference on Frontiers in Computing and Systems (COMSYS 2025)'
