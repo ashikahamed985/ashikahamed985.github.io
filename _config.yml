@@ -29,7 +29,7 @@ author:
   location         : "Dhaka, Bangladesh"
   employer         : "Research Student, Elite Research Lab"
   uri              : 
-  email            : "ashikahamed985@gmail.com"
+  email            : <a href="https://mail.google.com/mail/?view=cm&fs=1&to={{ author.email }}" target="_blank">
 
   # Academic websites
   academia         :
