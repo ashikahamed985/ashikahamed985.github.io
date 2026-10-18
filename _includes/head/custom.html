@@ -33,6 +33,43 @@
     -webkit-font-smoothing: antialiased;
   }
 
+  /* Thin gradient accent bar at the very top */
+  body::before {
+    content: "";
+    display: block;
+    height: 4px;
+    background: linear-gradient(90deg, #2563eb, #7c3aed, #06b6d4);
+  }
+
+  /* Soft tinted page background (light mode only) */
+  html:not([data-theme="dark"]) { --global-bg-color: #f1f5f9; }
+  html:not([data-theme="dark"]) body { background: #f1f5f9; }
+
+  /* Navigation bar */
+  html:not([data-theme="dark"]) .masthead {
+    background: #ffffff;
+    border-bottom: 1px solid #e2e8f0;
+    box-shadow: 0 1px 8px rgba(15, 23, 42, 0.05);
+  }
+
+  /* Main content as a white card */
+  html:not([data-theme="dark"]) .page__inner-wrap {
+    background: #ffffff;
+    border: 1px solid #e8edf3;
+    border-radius: 16px;
+    box-shadow: 0 4px 24px rgba(15, 23, 42, 0.06);
+    padding: 1.5rem 2rem 2rem;
+    box-sizing: border-box;
+  }
+  @media (max-width: 600px) {
+    html:not([data-theme="dark"]) .page__inner-wrap { padding: 1rem 1.1rem 1.4rem; }
+  }
+
+  html:not([data-theme="dark"]) .page__footer {
+    background: transparent;
+    border-top: 1px solid #e2e8f0;
+  }
+
   h1, h2, h3, h4, h5, h6,
   .page__title, .author__name, .archive__item-title {
     font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
@@ -40,7 +77,16 @@
     letter-spacing: -0.01em;
   }
 
-  .page__title { font-weight: 800; letter-spacing: -0.02em; }
+  /* Page title with blue gradient text */
+  .page__title {
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    color: #1e3a8a;
+    background: linear-gradient(90deg, #1e3a8a, #2563eb);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
 
   /* Links */
   a { color: #2563eb; text-underline-offset: 3px; }
