@@ -14,6 +14,14 @@ My research sits at the intersection of machine learning, time-series analysis, 
 <span style="display:inline-block;background:#e3f2fd;color:#1565c0;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Deep Learning</span>
 </p>
 
+<h3>Remote Sensing &amp; Spatial Generalisation</h3>
+<p>Most places in Bangladesh have no weather station of their own, so a model that only works at the stations it was trained on is of limited use. I am interested in combining station records with satellite and geographic data, such as MODIS land surface temperature, vegetation (NDVI/EVI) and aerosol optical depth, Landsat built-up indices, elevation and ERA5-Land reanalysis, and in testing models at held-out stations and regions (leave-station-out validation), so that heat risk can be estimated and mapped at 1 km resolution where no station exists.</p>
+<p>
+<span style="display:inline-block;background:#e0f2f1;color:#00695c;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Remote Sensing</span>
+<span style="display:inline-block;background:#e0f2f1;color:#00695c;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Spatiotemporal ML</span>
+<span style="display:inline-block;background:#e0f2f1;color:#00695c;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Spatial Validation</span>
+</p>
+
 <h3>Explainable AI (XAI) for High-Stakes Predictions</h3>
 <p>Accurate predictions are not enough for high-stakes domains like public health and climate risk — they need to be interpretable. I apply SHAP, LIME, and Morris Sensitivity Analysis to identify the key physical drivers behind model predictions, aiming to build systems that domain experts and policymakers can actually trust and act on.</p>
 <p>
@@ -22,10 +30,10 @@ My research sits at the intersection of machine learning, time-series analysis, 
 <span style="display:inline-block;background:#f3e5f5;color:#6a1b9a;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">LIME</span>
 </p>
 
-<h3>Applied ML for Public Health &amp; Early-Warning Systems</h3>
-<p>Beyond forecasting temperature itself, I am interested in translating climate data into actionable risk — for example, predicting daily heat-related illness risk (heatstroke, heat exhaustion) rather than raw temperature values, with the goal of informing early-warning systems for climate-vulnerable populations, particularly in South Asia.</p>
+<h3>Heat-Risk Prediction &amp; Early-Warning Systems</h3>
+<p>Beyond forecasting temperature itself, I am interested in translating climate data into actionable risk: predicting next-day Heat Index–based heat-stress risk rather than raw temperature values, with locally defined thresholds so that rare high-risk days are not missed. The goal is to inform early-warning systems for climate-vulnerable populations, particularly in South Asia.</p>
 <p>
-<span style="display:inline-block;background:#e8f5e9;color:#2e7d32;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Public Health</span>
+<span style="display:inline-block;background:#e8f5e9;color:#2e7d32;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Heat-Health Risk</span>
 <span style="display:inline-block;background:#e8f5e9;color:#2e7d32;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Early-Warning Systems</span>
 <span style="display:inline-block;background:#e8f5e9;color:#2e7d32;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">South Asia</span>
 </p>
