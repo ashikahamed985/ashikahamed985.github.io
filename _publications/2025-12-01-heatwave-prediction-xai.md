@@ -6,7 +6,7 @@ permalink: /publication/2025-12-01-heatwave-prediction-xai
 date: 2025-12-01
 venue: 'International Conference on Frontiers in Computing and Systems (COMSYS 2025)'
 paperurl: ''
-citation: 'Ahamed, A.*, et al. (2025). "Enhancing Heatwave Prediction Using Explainable AI: Feature Selection and Model Optimization for Improved Forecasting." International Conference on Frontiers in Computing and Systems (COMSYS 2025). Accepted, in press.'
+citation: 'Ahamed, A., Raxit, S., Zayad, A. A., Hasan, S. I., & Tabassum, N. (in press). "Enhancing Heatwave Prediction Using Explainable AI: Feature Selection and Model Optimization for Improved Forecasting." Proceedings of the 6th International Conference on Frontiers in Computing and Systems (COMSYS 2025). Springer Nature.'
 ---
 
 This paper addresses heatwave prediction in Dhaka, Bangladesh using a 10-year 
