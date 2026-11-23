@@ -14,7 +14,7 @@ My first-author paper, *"Enhancing Heatwave Prediction Using Explainable AI: Fea
 
 I am currently a Research Student at Elite Research Lab, where I receive structured mentorship in manuscript writing and work in mentor-led research groups, currently co-authoring a team paper. In parallel, I am independently developing a machine learning framework for next-day heat risk prediction (Safe, Caution, Danger, Extreme Danger) across eight cities in Bangladesh, using Heat Index–derived risk labels and SHAP to identify city-specific risk factors toward an early-warning framework.
 
-I am applying to PhD programs for 2027 entry. I want to work on climate-resilient AI: combining weather-station records with satellite data to predict heat risk, including in places that have no weather station, with models that are interpretable enough to inform real-world early-warning systems in climate-vulnerable regions like South Asia.
+I am applying to PhD programs for 2027 entry. I want to work on climate-resilient AI: combining weather-station records with satellite data to predict heat risk, including in places that have no weather station, with models that are interpretable enough to inform real-world early-warning systems in climate-vulnerable regions like South Asia. If my work fits your group, I would be glad to hear from you at [ashikahamed985@gmail.com](mailto:ashikahamed985@gmail.com).
 
 <a href="/files/ASHIK_AHAMED.pdf" class="btn btn--primary" target="_blank" rel="noopener noreferrer">📄 Download CV (PDF)</a>
 

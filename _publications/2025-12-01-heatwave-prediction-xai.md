@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2025-12-01-heatwave-prediction-xai
 date: 2025-12-01
 venue: 'International Conference on Frontiers in Computing and Systems (COMSYS 2025)'
+pubstatus: 'Accepted at'   # delete this line once the proceedings are published
 paperurl: ''
 citation: 'Ahamed, A., Raxit, S., Zayad, A. A., Hasan, S. I., & Tabassum, N. (in press). "Enhancing Heatwave Prediction Using Explainable AI: Feature Selection and Model Optimization for Improved Forecasting." Proceedings of the 6th International Conference on Frontiers in Computing and Systems (COMSYS 2025). Springer Nature.'
 ---

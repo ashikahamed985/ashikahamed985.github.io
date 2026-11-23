@@ -4,7 +4,20 @@ title: "Research Interests"
 author_profile: true
 ---
 
-My research sits at the intersection of machine learning, time-series analysis, and explainability, applied to real-world climate and environmental challenges. Broadly, I am interested in the following areas:
+My research sits at the intersection of machine learning, time-series analysis, and explainability, applied to real-world climate and environmental challenges.
+
+<figure style="margin:1.2em 0 1.6em;">
+  <img src="/images/research-overview.svg" alt="Overview of my research: weather-station and satellite data feed leakage-free forecasting models, explained with SHAP and LIME, to predict next-day heat-risk levels and support early warning" style="width:100%;height:auto;">
+  <figcaption style="font-size:0.85em;color:#64748b;margin-top:0.4em;">How my projects fit together. Solid boxes are current work; dashed boxes are planned next steps.</figcaption>
+</figure>
+
+<!-- To add one of your own figures (SHAP plot, station map, results chart):
+     1) upload the image into the /images/ folder
+     2) paste this line where you want it to appear:
+     <img src="/images/YOUR-FILE-NAME.png" alt="short description of the figure" style="width:100%;border-radius:8px;">
+-->
+
+Broadly, I am interested in the following areas:
 
 <h3>Time-Series Forecasting &amp; Climate Extremes</h3>
 <p>I work on modeling and forecasting climate extremes — particularly heatwaves — using both classical statistical methods (ARIMA, SARIMA, Prophet) and deep learning architectures (RNN, LSTM, GRU, BiLSTM, CNN-LSTM). My work spans single-city and multi-city forecasting pipelines, evaluating how well models generalize across distinct climate zones.</p>
