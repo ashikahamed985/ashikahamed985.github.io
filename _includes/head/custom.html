@@ -65,9 +65,17 @@
     html:not([data-theme="dark"]) .page__inner-wrap { padding: 1rem 1.1rem 1.4rem; }
   }
 
+  /* Footer: solid background + above the sidebar, so sidebar links
+     (Email / GitHub / LinkedIn) don't show through the footer text */
+  .page__footer { z-index: 15; }
   html:not([data-theme="dark"]) .page__footer {
-    background: transparent;
+    background: #f1f5f9;
     border-top: 1px solid #e2e8f0;
+  }
+  /* Extra space at the bottom of the fixed sidebar so its last links
+     can scroll above the pinned footer instead of hiding behind it */
+  @media screen and (min-width: 1024px) {
+    .sidebar { padding-bottom: 7rem; }
   }
 
   h1, h2, h3, h4, h5, h6,
