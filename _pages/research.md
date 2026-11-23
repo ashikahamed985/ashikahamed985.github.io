@@ -7,15 +7,17 @@ author_profile: true
 My research sits at the intersection of machine learning, time-series analysis, and explainability, applied to real-world climate and environmental challenges. Broadly, I am interested in the following areas:
 
 <h3>Time-Series Forecasting &amp; Climate Extremes</h3>
-<p>I work on modeling and forecasting climate extremes — particularly heatwaves — using both classical statistical methods (ARIMA, SARIMA) and deep learning architectures (LSTM, GRU, BiLSTM, CNN-LSTM). My work spans single-city and multi-city forecasting pipelines, evaluating how well models generalize across distinct climate zones.</p>
+<p>I work on modeling and forecasting climate extremes — particularly heatwaves — using both classical statistical methods (ARIMA, SARIMA, Prophet) and deep learning architectures (RNN, LSTM, GRU, BiLSTM, CNN-LSTM). My work spans single-city and multi-city forecasting pipelines, evaluating how well models generalize across distinct climate zones.</p>
+<p>I care about honest evaluation: a strict next-day setup where models only see data available on the issue day (checked by an automated leakage test), comparison against simple baselines such as persistence, climatology and ridge regression, and significance testing (Diebold–Mariano test, block bootstrap) before claiming that one model is better than another.</p>
 <p>
 <span style="display:inline-block;background:#e3f2fd;color:#1565c0;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Time-Series Forecasting</span>
 <span style="display:inline-block;background:#e3f2fd;color:#1565c0;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Climate Extremes</span>
 <span style="display:inline-block;background:#e3f2fd;color:#1565c0;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Deep Learning</span>
+<span style="display:inline-block;background:#e3f2fd;color:#1565c0;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Forecast Evaluation</span>
 </p>
 
 <h3>Remote Sensing &amp; Spatial Generalisation</h3>
-<p>Most places in Bangladesh have no weather station of their own, so a model that only works at the stations it was trained on is of limited use. I am interested in combining station records with satellite and geographic data, such as MODIS land surface temperature, vegetation (NDVI/EVI) and aerosol optical depth, Landsat built-up indices, elevation and ERA5-Land reanalysis, and in testing models at held-out stations and regions (leave-station-out validation), so that heat risk can be estimated and mapped at 1 km resolution where no station exists.</p>
+<p>Most places in Bangladesh have no weather station of their own, so a model that only works at the stations it was trained on is of limited use. I am interested in combining station records with satellite and geographic data, such as MODIS land surface temperature, vegetation (NDVI/EVI) and aerosol optical depth, Landsat built-up indices, elevation and ERA5-Land reanalysis, and in testing models at held-out stations and regions (leave-station-out validation), so that heat risk can be estimated and mapped at 1 km resolution where no station exists. As a first step, a leave-one-station-out test on 32 BMD stations in my current manuscript showed a pooled XGBoost model beating persistence at every held-out station (mean skill score 0.25). The same station-plus-satellite approach also carries over to air-quality prediction, which I am interested in exploring.</p>
 <p>
 <span style="display:inline-block;background:#e0f2f1;color:#00695c;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Remote Sensing</span>
 <span style="display:inline-block;background:#e0f2f1;color:#00695c;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Spatiotemporal ML</span>
@@ -23,7 +25,7 @@ My research sits at the intersection of machine learning, time-series analysis, 
 </p>
 
 <h3>Explainable AI (XAI) for High-Stakes Predictions</h3>
-<p>Accurate predictions are not enough for high-stakes domains like public health and climate risk — they need to be interpretable. I apply SHAP, LIME, and Morris Sensitivity Analysis to identify the key physical drivers behind model predictions, aiming to build systems that domain experts and policymakers can actually trust and act on.</p>
+<p>Accurate predictions are not enough for high-stakes domains like public health and climate risk — they need to be interpretable. I apply SHAP, LIME, Morris Sensitivity Analysis, and permutation importance to identify the key physical drivers behind model predictions, aiming to build systems that domain experts and policymakers can actually trust and act on.</p>
 <p>
 <span style="display:inline-block;background:#f3e5f5;color:#6a1b9a;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">Explainable AI</span>
 <span style="display:inline-block;background:#f3e5f5;color:#6a1b9a;padding:4px 10px;border-radius:12px;font-size:0.85em;margin:2px;">SHAP</span>
